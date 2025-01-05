@@ -16,7 +16,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-iamsandeepdahiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsandeepdahiya@gmail.com)](mailto:iamsandeepdahiya@gmail.com)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamsandeepdahiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamsandeepdahiya&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamsandeepdahiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeepdahiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
