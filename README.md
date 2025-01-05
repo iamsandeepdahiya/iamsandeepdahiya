@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header.png)
 
 I am a father, a husband, a front-end developer, a bachelor in computer engineering, a teacher and sometimes, a jogger. Most part of the day, you can find me building WordPress stuff, custom PHP, Javascript applications.
 
