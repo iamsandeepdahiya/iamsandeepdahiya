@@ -15,10 +15,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/iamsandeepdahiya?label=Follow&style=social)](https://github.com/iamsandeepdahiya/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-iamsandeepdahiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsandeepdahiya@gmail.com)](mailto:iamsandeepdahiya@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamsandeepdahiya&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamsandeepdahiya&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeepdahiya&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+# 📊 GitHub Stats:<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=iamsandeepdahiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeepdahiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=iamsandeepdahiya&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=iamsandeepdahiya&icon=0&color=0)](https://visitcount.itsvg.in)
