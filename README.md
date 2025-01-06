@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-# About Me:
+# About Me
 ### I am a father, a husband, a front-end developer, a bachelor in computer engineering, a teacher and sometimes, a jogger. Most part of the day, you can find me building WordPress stuff, custom PHP, Javascript applications.
 
 🔭 I'm currently building custom Gutenberg blocks using React components <br>🌱 I’m currently learning ReactJS, NextJS, Laravel framework<br>👯 I’m looking to collaborate on exciting WordPress projects<br>💬 Ask me about anything related to WordPress<br>⚡ Fun fact - I make videos on real crime stories on youtube during my spare time
