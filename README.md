@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=000000&background=ffffff&width=435&lines=Hello%2C+I'm+Sandeep+Dahiya)](https://git.io/typing-svg)
+
 # About Me:
 ### I am a father, a husband, a front-end developer, a bachelor in computer engineering, a teacher and sometimes, a jogger. Most part of the day, you can find me building WordPress stuff, custom PHP, Javascript applications.
 
