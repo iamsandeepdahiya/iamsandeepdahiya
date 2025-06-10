@@ -5,7 +5,7 @@
 🔭 I'm currently building custom Gutenberg blocks using React components <br>🌱 I’m currently learning NextJS, Laravel framework<br>👯 I’m looking to collaborate on exciting WordPress projects<br>💬 Ask me about anything related to WordPress<br>⚡ Fun fact - I make videos on real crime stories on youtube during my spare time
 
 <details>
-<summary><b>Languages and Tools</b></summary>
+<summary><b>Languages, Tools and Frameworks</b></summary>
 <br/>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
