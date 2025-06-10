@@ -4,7 +4,7 @@
 
 🔭 building: WordPress plugins <br>
 🌱 learning: custom Gutenberg blocks using React components <br>
-👯 collaborate: on anything related to WordPress <br> 
+🤝 collaborate: on anything related to WordPress <br> 
 🎯 goals: to have a home in a remote wooded area <br>
 ⚡ like: listening podcasts on real crime stories and reading books on kindle  <br>
 
@@ -43,6 +43,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" align="left" alt="bash" width="30" height="30"/> </a> 
 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="left" alt="bootstrap" width="30" height="30"/></a> <br>
+
 
 </p>
 </details>
