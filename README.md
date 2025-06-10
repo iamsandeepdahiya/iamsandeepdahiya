@@ -51,7 +51,7 @@
 <details>
 <summary><b>Github Status</b></summary>
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsandeepdahiya&hide_border=true&theme=grayscale" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsandeepdahiya&hide_border=true&theme=graywhite" alt="GitHub Streak" /></a>
 </p>
 </details>
 
