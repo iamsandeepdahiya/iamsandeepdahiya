@@ -3,7 +3,7 @@
 I'm a self-taught passionate WordPress developer from India 🇮🇳
 
 🔭 I'm currently building custom Gutenberg blocks using React components <br>🌱 I’m currently learning NextJS, Laravel framework<br>👯 I’m looking to collaborate on exciting WordPress projects<br>💬 Ask me about anything related to WordPress<br>⚡ Fun fact - I make videos on real crime stories on youtube during my spare time
-  
+
 <details>
 <summary><b>Languages and Tools</b></summary>
 <br/>
@@ -29,10 +29,10 @@ I'm a self-taught passionate WordPress developer from India 🇮🇳
 <details>
 <p>
 <summary><b>Github Status</b></summary>
-<a href="https://github.com/iamsandeepdahiya/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsandeepdahiya&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Sandeep's github stats" /></a> 
-<a href="https://github.com/iamsandeepdahiya/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsandeepdahiya&layout=compact&theme=buefy&hide_border=true" /></a> 
-</details>
+<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsandeepdahiya&hide_border=true" alt="GitHub Streak" /></a>
 </p>
+</details>
 
 <em><b>If you want to say <b>hi, I'll be glad to meet you!</b></em>
 [![Gmail Badge](https://img.shields.io/badge/-iamsandeepdahiya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamsandeepdahiya@gmail.com)](mailto:iamsandeepdahiya@gmail.com)
