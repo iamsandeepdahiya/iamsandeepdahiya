@@ -42,11 +42,11 @@
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" align="left" alt="bash" width="30" height="30"/> </a> 
 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="left" alt="bootstrap" width="30" height="30"/></a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="left" alt="bootstrap" width="30" height="30"/></a> <br>
+
 </p>
 </details>
-<br>
-<br>
+
 <details>
 <summary><b>Github Status</b></summary>
 <p>
