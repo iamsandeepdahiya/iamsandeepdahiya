@@ -1,4 +1,4 @@
-###  👋 Hello there, I am Sandeep. 
+###  Hello there, I am Sandeep. 
 
 I'm a self-taught passionate WordPress developer from India 🇮🇳
 
