@@ -11,7 +11,7 @@
 <details>
 <summary><b>I code with</b></summary>
 <p>
-  
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="javascript" width="40" height="40"/> </a>
   
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" align="left" alt="nodejs" width="40" height="40"/> </a> 
@@ -43,15 +43,13 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" align="left" alt="bash" width="40" height="40"/> </a> 
 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" align="left" alt="bootstrap" width="40" height="40"/></a> 
-
 </p>
 </details>
-
 
 <details>
 <summary><b>Github Status</b></summary>
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsandeepdahiya&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamsandeepdahiya&hide_border=true&theme=grayscale" alt="GitHub Streak" /></a>
 </p>
 </details>
 
